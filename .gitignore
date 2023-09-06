@@ -1,0 +1,4 @@
+./ansible_intro/**
+.vagrant/
+.vscode/settings.json
+test-project/.vscode/settings.json
