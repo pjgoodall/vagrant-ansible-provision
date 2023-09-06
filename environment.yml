@@ -1,0 +1,9 @@
+---
+name: vagrant-ansible
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - conda-forge:python=3.10
+  - conda-forge:ansible
+  - conda-forge:ansible-lint
